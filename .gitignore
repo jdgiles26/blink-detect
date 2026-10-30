@@ -1,0 +1,13 @@
+
+# Local backup exclusions
+.DS_Store
+venv/
+.venv/
+myenv/
+.hf-assess-venv/
+node_modules/
+__pycache__/
+.env
+.env.local
+.env.production
+recovery_codes.txt
